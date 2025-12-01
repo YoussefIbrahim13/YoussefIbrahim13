@@ -1,46 +1,18 @@
-# Hi there, I'm Youssef Ibrahim Hussein 👋
+# 💫 About Me:
+Building scalable backend systems with .NET Core & Blazor<br>Open source .NET projects and enterprise applications<br>Advanced System Design & Microservices Architecture<br>Software Architecture Patterns & Cloud Deployment<br>C#, ASP.NET Core, SQL Server, REST APIs, & OOP<br>
 
-### 🚀 Backend Developer | .NET Core Specialist
 
-[cite_start]I am a motivated Backend Developer and a Computer Science student at El Shorouk Academy (Expected 2026)[cite: 6]. [cite_start]I specialize in building robust, scalable RESTful APIs and server-side logic using **ASP.NET Core** and **SQL Server**[cite: 3, 4].
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ youssefibrahim56) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Youssef Ibrahim) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:yy7692651@gmail.com) 
 
-- 🔭 I’m currently working on developing enterprise-level applications using **.NET & Blazor**.
-- 🌱 I’m currently sharpening my skills in **System Design & Microservices**.
-- [cite_start]💼 Experience: Trainee Backend Developer at **Microtec International** & **Route IT**.
-- 👯 I’m looking to collaborate on Open Source **.NET** projects.
-- [cite_start]⚡ Fun fact: I was the **Head of Media and Branding** at IEEE SHA! [cite: 42]
+# 💻 Tech Stack:
+![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Blazor](https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YoussefIbrahim13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=YoussefIbrahim13&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbrahim13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
----
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=YoussefIbrahim13&limit=5&theme=transparent&combine_all_yearly_contributions=true)
 
-### 🛠️ Languages and Tools
-
-<p align="left">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-  <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-  <img src="https://img.shields.io/badge/Entity_Framework-512BD4?style=for-the-badge&logo=nuget&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
-</p>
-
----
-
-### 📂 Featured Projects
-
-#### 🏢 [Attendance & Departure System](https://github.com/YoussefIbrahim13/Attendance-and-departure-system)
-A full-stack employee attendance management system built with **Blazor** (UI) and **ASP.NET Core Web API** (Backend).
-* [cite_start]**Architecture:** Designed using **Factory Design Pattern** and **Clean Architecture** principles[cite: 25].
-* [cite_start]**Features:** Real-time tracking, file import validation, and seamless RESTful API communication[cite: 26, 27].
-* **Tech Stack:** .NET Core, Blazor, SQL Server, Entity Framework Core.
-
----
-
-### 📫 Connect with me
-
-<p align="left">
-<a href="(https://www.linkedin.com/in/youssef-ibrahim-1322004sh192007)" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Youssef Ibrahim" /></a>
-<a href="mailto:yy7692651@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="yy7692651@gmail.com" /></a>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

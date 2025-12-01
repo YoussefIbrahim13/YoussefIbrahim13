@@ -1,5 +1,10 @@
 # 💫 About Me:
-Building scalable backend systems with .NET Core & Blazor<br>Open source .NET projects and enterprise applications<br>Advanced System Design & Microservices Architecture<br>Software Architecture Patterns & Cloud Deployment<br>C#, ASP.NET Core, SQL Server, REST APIs, & OOP<br>
+I am a Computer Science student (Class of 2026) and a passionate **Backend Developer**. My journey includes hands-on experience at **Microtec International** and **Route IT**, where I honed my skills in building scalable APIs and mastering **.NET Core**.
+
+- 🔭 I’m currently working on **Enterprise .NET Core & Blazor Systems using Factory Pattern**
+- 🌱 I’m currently learning **System Architecture & Advanced Design Patterns**
+- 👯 I’m looking to collaborate on **Open Source projects requiring SOLID principles**
+- 💬 Ask me about **C#, RESTful APIs, SQL Server, & Entity Framework**
 
 
 ## 🌐 Socials:

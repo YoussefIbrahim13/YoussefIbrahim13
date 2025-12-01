@@ -1,7 +1,5 @@
 ### A passionate Backend Developer specializing in .NET technologies & Blazor.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=YoussefIbrahim13&label=Profile views&color=0e75b6&style=flat" alt="YoussefIbrahim13" /> </p>
-
 - 🔭 I'm currently working on **Building robust, scalable backend systems using ASP.NET Core and Blazor.**
 
 - 🌱 I'm currently learning **Advanced System Design patterns & Microservices Architecture**

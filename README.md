@@ -22,7 +22,6 @@ I design and build full-stack applications that solve real operational problems 
 <p align="left">
 <a href="https://github.com/YoussefIbrahim13" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="YoussefIbrahim13" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/youssef-ibrahim-1322004sh192007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef-ibrahim-1322004sh192007" height="30" width="40" /></a>
-<a href="mailto:yy7692651@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="email" height="30" width="40" /></a>
 </p>
 
 <br/>

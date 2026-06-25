@@ -131,21 +131,19 @@ Have a look through my pinned repositories for additional work — including exp
 
 <br/>
 
-## 📊 GitHub Stats
+# 📊 GitHub Stats:
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YoussefIbrahim13&theme=transparent&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbrahim13&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=YoussefIbrahim13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YoussefIbrahim13&theme=transparent&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Langs" />
 </p>
 
 <p align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=YoussefIbrahim13&theme=transparent&hide_border=true" alt="Streak Stats"/>
+  <img src="https://streak-stats.demolab.com/?user=YoussefIbrahim13&theme=transparent&hide_border=false" alt="GitHub Streak" />
 </p>
 
 ### 🔝 Top Contributed Repo
-
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=YoussefIbrahim13&limit=5&theme=transparent&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=YoussefIbrahim13&repo=اسم_الريبو_هنا&theme=transparent" alt="Top Repo" />
 </p>
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
